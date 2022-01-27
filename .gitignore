@@ -150,3 +150,11 @@ test_logs/
 logs/
 tensorboard/
 src/
+**/.ipynb_checkpoints/*
+**/.virtual_documents/*
+assets/.METADATA/job_run.*
+assets/job_run
+cover/
+.pybuilder/
+.pytype/
+cython_debug/
